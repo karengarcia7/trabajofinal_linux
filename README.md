@@ -1,25 +1,16 @@
-# Titulo grande
-## Subtitulo
-### Subsubtitulo
-#### Subsubsubtitulo
+# PROYECTO FINAL 
+## INSTRUCCIONES DE PROGRAMA
 
-**Letra en negritas**
-Letra normal
 
-Lista: 
-* Elemento 1
-* Elemento 2
-* Elemento 3
+*INSTALADOR*
 
-Enlace al repositorio: https://github.com/profedm/linux_ucg
 
-### Lista de comandos básicos:
+* Primeramente se debe ejecutar el "instalador" en la consola con sudo chmod +x instalador.sh y luego ./instalador.sh
+* Una vez realizado eso, se creara la carpeta Build junto con los archivos de CMakeList y Makefile para asi poder ejecutar automaticamente el programa.
 
-* **git clone [repositorio]**: Copiar repositorio en equipo
-* **git pull**: Actualizar el repositorio
-* **git add [fuente]**: Añadir modificaciones al repositorio
-* **git commit -m [comentario]**: Comentar los cambios
-* **git push origin master**: Subir los cambios al repositorio
+*CALCULADORA*
 
-### Documentacion de readme: 
-Enlace: https://help.github.com/es/github/writing-on-github/basic-writing-and-formatting-syntax 
+* Para usar la calculadora simplemente se debe ingresar el numero que deseen para nuestra operacion.
+* ejemplo: Para realizar una resta click en 2:
+* Luego simplemente se insertan los dos numeros para nuestra operacion.
+* Muestra el resultado.
